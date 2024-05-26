@@ -1,2 +1,2 @@
 # Array-Operation-Assignment
-This assignment covers TypeScript arrays with practical examples like employee data, car details, and product inventory. You'll learn basic array operations, type safety in typed arrays, index access, and multi-dimensional arrays and tuples.
+𝘓𝘦𝘢𝘳𝘯 𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵 𝘢𝘳𝘳𝘢𝘺𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 𝘦𝘹𝘢𝘮𝘱𝘭𝘦𝘴 𝘴𝘶𝘤𝘩 𝘢𝘴 𝘦𝘮𝘱𝘭𝘰𝘺𝘦𝘦 𝘥𝘢𝘵𝘢, 𝘤𝘢𝘳 𝘥𝘦𝘵𝘢𝘪𝘭𝘴, 𝘢𝘯𝘥 𝘱𝘳𝘰𝘥𝘶𝘤𝘵 𝘪𝘯𝘷𝘦𝘯𝘵𝘰𝘳𝘺. 𝘊𝘰𝘷𝘦𝘳 𝘣𝘢𝘴𝘪𝘤 𝘰𝘱𝘦𝘳𝘢𝘵𝘪𝘰𝘯𝘴, 𝘵𝘺𝘱𝘦 𝘴𝘢𝘧𝘦𝘵𝘺, 𝘪𝘯𝘥𝘦𝘹 𝘢𝘤𝘤𝘦𝘴𝘴, 𝘢𝘯𝘥 𝘮𝘶𝘭𝘵𝘪-𝘥𝘪𝘮𝘦𝘯𝘴𝘪𝘰𝘯𝘢𝘭 𝘢𝘳𝘳𝘢𝘺𝘴 𝘢𝘯𝘥 𝘵𝘶𝘱𝘭𝘦𝘴.
