@@ -58,7 +58,7 @@ let changeColor = (product: Product, newColor: string): void => {
     if (!product.inventory.colorOptions.includes(newColor)) {
         product.inventory.colorOptions.push(newColor);
     }
-
+}
 let displayProducts = (products: Product[]): void => {
     for (let product of products) {
         console.log("Product Inventory");
